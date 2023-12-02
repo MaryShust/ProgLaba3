@@ -1,6 +1,5 @@
 package Task;
 
-import java.util.function.Predicate;
 import java.util.Random;
 
 abstract class Human extends Matter implements InnateAbilities {
